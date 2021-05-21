@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM arm32v6/alpine:latest
 #MAINTAINER docker@wakongka
 
 ENV AMULE_VERSION 2.3.3
