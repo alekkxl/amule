@@ -58,6 +58,7 @@ RUN mkdir -p /opt/amule \
         --enable-fileview \
         --enable-geoip \
         --enable-mmap \
+        --with-boost \
         --enable-optimize \
         --enable-upnp \
         --disable-debug \
